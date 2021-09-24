@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Net.M.A010.Models/1.0.0": {
+        "runtime": {
+          "Net.M.A010.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Net.M.A010.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Net.M.A010.Presentation/1.0.0": {
+        "dependencies": {
+          "Net.M.A010.Services": "1.0.0"
+        },
+        "runtime": {
+          "Net.M.A010.Presentation.dll": {}
+        }
+      },
+      "Net.M.A010.Models/1.0.0": {
+        "runtime": {
+          "Net.M.A010.Models.dll": {}
+        }
+      },
+      "Net.M.A010.Services/1.0.0": {
+        "dependencies": {
+          "Net.M.A010.Models": "1.0.0"
+        },
+        "runtime": {
+          "Net.M.A010.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Net.M.A010.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Net.M.A010.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Net.M.A010.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
